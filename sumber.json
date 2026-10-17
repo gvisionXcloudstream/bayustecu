@@ -43,6 +43,7 @@
         "apiVersion": 1,
         "fileHash": "sha256-5cbcc9352444c7b6b0aeef6a899a072046feeb2339064a18fa1691de0a15f331"
     },
+    
     {
         "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Astronime.cs3",
         "status": 1,
@@ -398,25 +399,26 @@
         "fileHash": "sha256-6b7a25a5cf537682ba62e9a86a3909257dbec97a7d261d42dd461931e535c390"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
-        "status": 1,
-        "version": 13,
-        "name": "Animekhor",
-        "internalName": "Animekhor",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/BilibiliProvider.cs3",
+        "status": 3,
+        "version": 15,
+        "name": "BilibiliProvider",
+        "internalName": "BilibiliProvider",
         "authors": [
-            "Phisher98"
+            "sad25kag"
         ],
-        "description": "Anime and Movies includes (Donghuaword)",
-        "fileSize": 50899,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "zh",
+        "description": "Bilibili TV - Anime, film, serial, dan konten Asia dari bilibili.tv",
+        "fileSize": 81636,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "language": "id",
         "tvTypes": [
-            "AnimeMovie",
-            "Anime"
+            "Anime",
+            "Movie",
+            "TvSeries"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animekhor.org&sz=%size%",
+        "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
         "apiVersion": 1,
-        "fileHash": "sha256-5822fff54a3d61af1013ccd5271f929a3d4f663ec7ff35e41f671c3102c1f25a"
+        "fileHash": "sha256-e2fb6c0d3365c16ea59ea0a94d1f5e928ecdfd00ba59b8e9f66d882141f24e84"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Chikianimation.cs3",
@@ -504,48 +506,6 @@
         "fileHash": "sha256-5b773f860478ee8ba0fc0b5e704ee5ed81afdd9d3aa12cc6c7092afc8deb46c1"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.cs3",
-        "status": 1,
-        "version": 8,
-        "name": "Pencurimovie",
-        "internalName": "Pencurimovie",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "Pencurimovie ",
-        "fileSize": 41968,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "id",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww21.pencurimovie.sbs&size=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-62a7bb04b56644df5e1c6f6a27835794eafc3f0f620d4289c7be6a54e391a829"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
-        "status": 1,
-        "version": 8,
-        "name": "Pmsm",
-        "internalName": "Pmsm",
-        "authors": [
-            "Phisher98,Duro92"
-        ],
-        "description": "PMSM (Pencuri Movie Sub Malay)",
-        "fileSize": 60229,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "id",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-15108eaded73e2669bd7c1911df457105de60b4bb56d3cc028e5c43bdc218692"
-    },
-    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
         "status": 1,
         "version": 13,
@@ -567,110 +527,25 @@
         "fileHash": "sha256-5822fff54a3d61af1013ccd5271f929a3d4f663ec7ff35e41f671c3102c1f25a"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Chikianimation.cs3",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Pencurimovie.cs3",
         "status": 1,
-        "version": 2,
-        "name": "Chikianimation",
-        "internalName": "Chikianimation",
-        "authors": [
-            "Phisher98"
-        ],
-        "description": "English anime and donghua from chikianimation.com",
-        "fileSize": 80865,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "zh",
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
-        "iconUrl": "https://chikianimation.com/wp-content/uploads/2026/03/logo.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-463cd68d874eaaab02636de6180e4fc9f564451c3478454c98d54e621930c0e1"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
-        "status": 1,
-        "version": 22,
-        "name": "KisskhProvider",
-        "internalName": "KisskhProvider",
-        "authors": [
-            "Phisher98,Hexated,Peerless"
-        ],
-        "fileSize": 66635,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "en",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-9b1eff1235e3b6a7f531671af700c735db4d6423002ff5f3d8cb51f597e20857"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
-        "status": 1,
-        "version": 10,
-        "name": "LayarKacaProvider",
-        "internalName": "LayarKacaProvider",
-        "authors": [
-            "Hexated,Phisher98"
-        ],
-        "fileSize": 80668,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "id",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=d21.team&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-db0c8643377a03fbed0c7553fb93e863f3f170e06c8cfec348f5ce989c8c3b93"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
-        "status": 1,
-        "version": 37,
-        "name": "MovieBoxProvider",
-        "internalName": "MovieBoxProvider",
-        "authors": [
-            "NivinCNC,Phisher98"
-        ],
-        "description": "Multi Language Movies and Series Provider",
-        "fileSize": 157871,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-5b773f860478ee8ba0fc0b5e704ee5ed81afdd9d3aa12cc6c7092afc8deb46c1"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.cs3",
-        "status": 1,
-        "version": 8,
+        "version": 1,
         "name": "Pencurimovie",
         "internalName": "Pencurimovie",
+        "description": "📺 Streaming Movie and TV Series",
         "authors": [
-            "Phisher98"
+            "Phisher98",
+            "Asm0d3usX"
         ],
-        "description": "Pencurimovie ",
-        "fileSize": 41968,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 16517,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "language": "id",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww21.pencurimovie.sbs&size=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-62a7bb04b56644df5e1c6f6a27835794eafc3f0f620d4289c7be6a54e391a829"
+        "iconUrl": "https://i.ibb.co.com/Y7dqMBrr/pencurimovie.png",
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
@@ -692,5 +567,144 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-15108eaded73e2669bd7c1911df457105de60b4bb56d3cc028e5c43bdc218692"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Dutamovie.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Dutamovie",
+        "internalName": "Dutamovie",
+        "description": "📺 Streaming Movie and TV Series",
+        "authors": [
+            "Hexated",
+            "Asm0d3usX"
+        ],
+        "fileSize": 27347,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://i.ibb.co.com/SwTXWck9/dutamovie.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Indomax.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Indomax",
+        "internalName": "Indomax",
+        "description": "📺 Streaming Movie and TV Series",
+        "authors": [
+            "Asm0d3usX"
+        ],
+        "fileSize": 20883,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://i.ibb.co.com/6cCQ1h87/indomax.jpg",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Ngefilm.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Ngefilm",
+        "internalName": "Ngefilm",
+        "description": "📺 Streaming Movie and TV Series",
+        "authors": [
+            "Asm0d3usX"
+        ],
+        "fileSize": 21909,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://i.ibb.co.com/3yVG0DbY/ngefilm.png",
+        "apiVersion": 1
+    },
+    {
+        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "fileSize": 30703,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 9,
+        "internalName": "IPTVProvider",
+        "description": "C\u1ea7n nh\u1eadp link IPTV \u0111\u1ec3 xem",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/IPTVProvider.cs3",
+        "name": "IPTVProvider"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Pornhub.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "Pornhub",
+        "internalName": "Pornhub",
+        "authors": [
+            "aldey84"
+        ],
+        "description": "Awas Jangan Coli Kawan",
+        "fileSize": 18258,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://www.pornhub.com/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-f3047e694291da1f0efd21af5871abf07656fef4796eedadd15696fc72cdd081"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/JavHey.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "JavHey",
+        "internalName": "JavHey",
+        "authors": [
+            "aldey84"
+        ],
+        "description": "Best Japan AV porn site, free forever, high speed, no lag, over 100,000 videos, daily update, no ads while playing video.",
+        "fileSize": 23083,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "language": "id",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://missav.ws/missav/logo-square.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ef4f7be886ecceaf084c1328541c7fd3f020bd3da5e3f2bdbe6f127ec0e56b1c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/MissAv.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "MissAv",
+        "internalName": "MissAv",
+        "authors": [
+            "aldey84"
+        ],
+        "description": "Best Japan AV porn site, free forever, high speed, no lag, over 100,000 videos, daily update, no ads while playing video.",
+        "fileSize": 17646,
+        "repositoryUrl": "https://github.com/bikinveo-hash/RepairPremium_Repo",
+        "language": "en",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://missav.ws/missav/logo-square.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a00445b24701ace61e1efb2cf387c45cd4e11e13618bc6e4500bfb4d09cb5649"
     }
 ]
