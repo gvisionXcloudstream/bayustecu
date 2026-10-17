@@ -4,6 +4,6 @@
     "description": "DONASI PAKE QRIS",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
+      "https://raw.githubusercontent.com/gvisionXcloudstream/bayustecu/refs/heads/main/sumber.json"
     ]
 }
