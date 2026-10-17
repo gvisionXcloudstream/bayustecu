@@ -1,0 +1,9 @@
+{
+    "name": "CLOUDSTREAM MOD AUTO REPO V5 BY BAYU STECU",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
+    "description": "DONASI PAKE QRIS",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
+    ]
+}
